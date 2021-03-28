@@ -1,4 +1,5 @@
-# Ads Light (adslight)
+![alt text](https://github.com/MaxLeandro14/desafio-smilles/src/assets/banner.jpg?raw=true)
+# Desafio Smiles
 
 A Quasar Framework app
 
