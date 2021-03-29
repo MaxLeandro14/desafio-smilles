@@ -1,4 +1,4 @@
-![alt text](https://github.com/MaxLeandro14/desafio-smilles/src/assets/banner.jpg?raw=true)
+![alt text](https://github.com/MaxLeandro14/desafio-smilles/blob/master/src/assets/banner_Easy-Resize.com.jpg?raw=true)
 # Desafio Smiles
 
 A Quasar Framework app
