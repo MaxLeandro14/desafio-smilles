@@ -1,7 +1,8 @@
 ![alt text](https://github.com/MaxLeandro14/desafio-smilles/blob/master/src/assets/banner_Easy-Resize.com.jpg?raw=true)
 # Desafio Smiles
 
-A Quasar Framework app
+Feito com o Quasar Framework app,
+Nem todas as telas foram implementadas para o video demo.
 
 ## Install the dependencies
 ```bash
